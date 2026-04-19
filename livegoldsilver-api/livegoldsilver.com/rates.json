@@ -1,5 +1,5 @@
 {
-    "url": "https://livegoldsilver.com.com/api/latest",
+    "url": "https://livegoldsilver.com/api/latest",
     "token": "YOUR_API_KEY",
     "type": "application/json",
     "base": "XAU",
